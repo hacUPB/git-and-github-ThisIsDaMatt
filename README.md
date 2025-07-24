@@ -2,8 +2,20 @@
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
 Nombre del estudiante:  
-Id.:  
+Id.: 
 ---
+## Descripción del contenido
+
+Este repositorio contiene información valiosa para navegar por la consola de Git, crear un repositorio remoto o crear un repositorio local en GitHub, además de un codigo en Python dentro de este repositorio.
+
+Para clonar este repositorio, dirigete al botón "Code" más arriba, hazle click y copia el link de este repositorio. Abre Git, haz cd hasta llegar al directorio deseado y ejecuta el comando "git clone (link de este repositorio), lo cual creará una copia de este.
+
+**Aqui puedes encontrar los links a los archivos Markdown con información sobre Git y GitHub:**
+
+[Uso de la Consola Git](/prog-Eval_Template/docs/uso_consola.md)
+[Crear un repositorio local](/prog-Eval_Template/docs/repositorio_local.md)
+[Crear un repositorio remoto](/prog-Eval_Template/docs/repositorio_remoto.md)
+
 # Evaluación
 
 ### **Descripción de la Actividad:**
