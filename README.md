@@ -16,6 +16,16 @@ Para clonar este repositorio, dirigete al botón "Code" más arriba, hazle click
 [Crear un repositorio local](/prog-Eval_Template/docs/repositorio_local.md)
 [Crear un repositorio remoto](/prog-Eval_Template/docs/repositorio_remoto.md)
 
+## Link a imagenes del proceso
+
+![Creación de Carpetas](/prog-Eval_Template/images/crear_carpetas.png)
+
+![Comandos Touch y Mkdir](/prog-Eval_Template/images/crear_y_touch.png)
+
+![Verificación del estado de los commit](/prog-Eval_Template/images/git_status.png)
+
+![Push al repositorio de remoto](/prog-Eval_Template/images/git_push.png)
+
 # Evaluación
 
 ### **Descripción de la Actividad:**
