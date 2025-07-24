@@ -7,9 +7,9 @@ Para clonar este repositorio, dirigete al botón "Code" más arriba, hazle click
 
 **Aqui puedes encontrar los links a los archivos Markdown con información sobre Git y GitHub:**
 
-[Uso de la Consola Git](/prog-Eval_Template/docs/uso_consola.md)
-[Crear un repositorio local](/prog-Eval_Template/docs/repositorio_local.md)
-[Crear un repositorio remoto](/prog-Eval_Template/docs/repositorio_remoto.md)
+- [Uso de la Consola Git](/prog-Eval_Template/docs/uso_consola.md)
+- [Crear un repositorio local](/prog-Eval_Template/docs/repositorio_local.md)
+- [Crear un repositorio remoto](/prog-Eval_Template/docs/repositorio_remoto.md)
 
 ## Link a imagenes del proceso
 
