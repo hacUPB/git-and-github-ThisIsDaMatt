@@ -13,13 +13,7 @@ Para clonar este repositorio, dirigete al botón "Code" más arriba, hazle click
 
 ## Link a imagenes del proceso
 
-![Creación de Carpetas](/prog-Eval_Template/images/crear_carpetas.png)
-
-![Comandos Touch y Mkdir](/prog-Eval_Template/images/crear_y_touch.png)
-
-![Verificación del estado de los commit](/prog-Eval_Template/images/git_status.png)
-
-![Push al repositorio de remoto](/prog-Eval_Template/images/git_push.png)
+[Imagenes del proceso de creación](/prog-Eval_Template/docs/images.md)
 
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
