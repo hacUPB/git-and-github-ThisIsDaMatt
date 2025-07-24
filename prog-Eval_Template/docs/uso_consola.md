@@ -16,4 +16,4 @@ rm: Borra un archivo
 rm -r: Forzar a eliminar todo el contenido
 clear: Borra la pantalla
 
-# Estos comandos te permiten navegar por el sistema desde la consola de Git
+### Estos comandos te permiten navegar por el sistema desde la consola de Git
