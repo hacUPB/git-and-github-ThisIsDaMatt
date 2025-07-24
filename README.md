@@ -1,9 +1,4 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SoiS0_7u)
-# Unidad No. 1 - Git y GitHub
-## Información del estudiante  
-- Nombre del estudiante:  Matias Munera Mazo
-- Id.: 000227329
----
 ## Descripción del contenido
 
 Este repositorio contiene información valiosa para navegar por la consola de Git, crear un repositorio remoto o crear un repositorio local en GitHub, además de un codigo en Python dentro de este repositorio.
@@ -26,6 +21,11 @@ Para clonar este repositorio, dirigete al botón "Code" más arriba, hazle click
 
 ![Push al repositorio de remoto](/prog-Eval_Template/images/git_push.png)
 
+# Unidad No. 1 - Git y GitHub
+## Información del estudiante  
+- Nombre del estudiante:  Matias Munera Mazo
+- Id.: 000227329
+---
 # Evaluación
 
 ### **Descripción de la Actividad:**
